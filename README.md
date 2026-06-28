@@ -1,16 +1,41 @@
-# React + Vite
+# Protótipo - Remote Software Deployer
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Protótipo da interface do **Remote Software Deployer**, desenvolvido para apoiar a especificação dos requisitos e a validação das telas do projeto durante a elaboração do **RFC (Request for Comments)**.
 
-Currently, two official plugins are available:
+O objetivo deste repositório é apresentar a navegação e a experiência do usuário da aplicação antes da implementação completa do sistema.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## Demonstração
 
-## React Compiler
+🔗 https://remote-software-deployer-prototype.vercel.app/
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## Objetivo
 
-## Expanding the ESLint configuration
+Este protótipo foi criado para representar visualmente as funcionalidades propostas no RFC, permitindo validar a organização das telas, o fluxo de navegação e a experiência do usuário.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+As telas utilizam dados simulados e não possuem integração com backend.
+
+## Telas Disponíveis
+
+- Login
+- Dashboard
+- Computadores
+- Catálogo de Softwares
+- Nova Instalação
+- Monitoramento de Instalações
+- Histórico de Instalações
+
+## Tecnologias Utilizadas
+
+- React
+- Vite
+- JavaScript
+- CSS
+- Vercel
+
+## Observações
+
+> Este repositório contém apenas o protótipo da interface da aplicação. As funcionalidades apresentadas utilizam dados simulados e têm como finalidade apoiar a documentação do projeto durante a etapa de levantamento e especificação dos requisitos.
+
+## Autora
+
+**Rebeca Lara**
